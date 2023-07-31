@@ -22,3 +22,8 @@ Rainbow Tokens are a fixed-supply ERC20 cryptocurrency built on the [EIP-2535 Di
 [0xdc0479cc5bba033b3e7de9f178607150b3abce1f](https://polygonscan.com/address/0xdc0479cc5bba033b3e7de9f178607150b3abce1f)
 * Crypto Unicorn Land NFT
 [0xA2a13cE1824F3916fC84C65e559391fc6674e6e8](https://polygonscan.com/address/0xa2a13ce1824f3916fc84c65e559391fc6674e6e8)
+
+---
+
+## Sovereignty
+Laguna Games released ownership of the Polygon RBW smart contract on 10 May, 2023, in the following transaction: [0x32a06e4f95444df5dd4283c8b73431b66c6fc3975bad6151720877c1facc25ce](https://polygonscan.com/tx/0x32a06e4f95444df5dd4283c8b73431b66c6fc3975bad6151720877c1facc25ce)
